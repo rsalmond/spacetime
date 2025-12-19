@@ -1,4 +1,4 @@
-# A Graph View of [PBS Spacetime](https://old.reddit.com/r/pbsspacetime/) Videos
+# A Graph View of [PBS Spacetime](https://www.youtube.com/@pbsspacetime/) Videos
 
 ## (coded by a robot)
 

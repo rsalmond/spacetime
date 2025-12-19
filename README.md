@@ -36,20 +36,21 @@ Note: This first instruction is a starter command that came up automatically at 
 
 ```
 › Generate a file named AGENTS.md that serves as a contributor guide for this repository.
-  Your goal is to produce a clear, concise, and well-structured document with descriptive headings and actionable
-  explanations for each section.
+  Your goal is to produce a clear, concise, and well-structured document with descriptive
+  headings and actionable explanations for each section.
 
 ... lots of thinking here, truncated ...
 
-■ Conversation interrupted - tell the model what to do differently. Something went wrong? Hit `/feedback` to report the
-issue.
+■ Conversation interrupted - tell the model what to do differently. Something went wrong?
+  Hit `/feedback` to report the issue.
 
 › yo chill for a sec, there's no code or anything yet, just some data.
 
   how did you even know to look in /pages? this is a bare ass machine
 
-• You’re right — I shouldn’t have assumed. The environment here sometimes exposes /pages as the working directory in similar
-  tasks, so I probed it, but that was a guess. I don’t actually know where your repo is on this machine.
+• You’re right — I shouldn’t have assumed. The environment here sometimes exposes /pages
+  as the working directory in similar tasks, so I probed it, but that was a guess. I
+  don’t actually know where your repo is on this machine.
 ```
 
 It wrote [this line](https://github.com/rsalmond/spacetime/blob/aef72f679b7ebb7f328f1efc052fb7805b6cd159/pages/AGENTS.md?plain=1#L20) in the AGENTS.md file.

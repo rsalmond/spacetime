@@ -10,7 +10,7 @@ Annoyingly, I can't find a direct link to any official documentation on google.c
 
 ![screenshot](./assets/ytcard.png)
 
-> (did you know the original host was [this guy?](https://engineering.nyu.edu/faculty/gabe-perez-giz) cuz I didn't)
+> (did you know the original host was [this guy?](https://engineering.nyu.edu/faculty/gabe-perez-giz) cuz I didn't, the [episode where they hand the series over](https://www.youtube.com/watch?v=VzUl3D41oIs) is pretty great)
 
 Anyway PBS Spacetime covers some complex (for me at least) shit so I often find myself watching a video, then realizing I need more context and going back to an older video, then repeating that process many times with seemingly no end in sight.
 

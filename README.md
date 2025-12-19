@@ -65,8 +65,8 @@ I had not said anything to codex about this variable, only ChatGPT.
 
 ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
-• I don’t have memory of past chats. If you can recap what you want for the YouTube scraping work and where the repo/data
-  lives on this machine, I can pick up from there.
+• I don’t have memory of past chats. If you can recap what you want for the YouTube
+  scraping work and where the repo/data lives on this machine, I can pick up from there.
 ```
 
 ![tyler](./assets/tyler.png)

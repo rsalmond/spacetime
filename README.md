@@ -6,7 +6,7 @@ tl;dr - [here it is](https://rob.salmond.ca/files/spacetime_graph.html)
 
 I've often thought while watching PBS Spacetime that I would like to see a graph / tree view of all their videos where edges on the graph represent the backlinks found in their "cards".
 
-Annoyingly, I can't find a direct link to any official documentation on google.com or youtube.com that simply _explains what cards are_ so here you go, it's this "(i)" thing in the upper right corner. You click it and it shows you whatever the creator wants to link you to.
+Annoyingly, I can't find a direct link to any official documentation on google.com or youtube.com that simply _explains what cards are_ so here you go: it's this "(i)" thing in the upper right corner. You click it and it shows you whatever the creator wants to link you to.
 
 ![screenshot](./assets/ytcard.png)
 
